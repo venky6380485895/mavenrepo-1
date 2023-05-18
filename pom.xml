@@ -37,6 +37,10 @@
             <url>http://10.128.0.10:8081/repository/student-snap/</url>
         </snapshotRepository>
     </distributionManagement>
+    <properties>
+      <sonar.host.url>http://13.233.154.131:9000/</sonar.host.url>
+      <sonar.login>squ_b4f1048d05883ec2ca4a16386342394a21fb57cb</sonar.login>
+     </properties>
   <dependencies>
   	<dependency>
   		<groupId>javax.servlet</groupId>
